@@ -9,3 +9,5 @@
 /pubspec.lock
 /vulpes_hub.iml
 /.metadata
+
+sentry.properties
