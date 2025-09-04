@@ -1,0 +1,11 @@
+/ios/
+/android/
+/.idea/
+/.dart_tool/
+/linux/
+/macos/
+/web/
+/windows/
+/pubspec.lock
+/vulpes_hub.iml
+/.metadata
